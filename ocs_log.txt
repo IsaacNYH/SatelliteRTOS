@@ -1,0 +1,80 @@
+[2025-09-05 18:35:48.047484300 UTC] Satellite OCS Simulation Started
+[2025-09-05 18:35:48.048429200 UTC] Sensor compression jitter (MAD): 10000.000ms
+[2025-09-05 18:35:48.048413900 UTC] Sensor antenna jitter (MAD): 20000.000ms
+[2025-09-05 18:35:48.048507600 UTC] Sensor health jitter (MAD): 12500.000ms
+[2025-09-05 18:35:48.048671500 UTC] Sensor thermal jitter (MAD): 7500.000ms
+[2025-09-05 18:35:55.549030 UTC] Sensor thermal jitter (MAD): 0.464ms
+[2025-09-05 18:35:58.048572100 UTC] Sensor compression jitter (MAD): 0.142ms
+[2025-09-05 18:36:00.548616800 UTC] Sensor health jitter (MAD): 0.109ms
+[2025-09-05 18:36:03.049219500 UTC] Sensor thermal jitter (MAD): 0.195ms
+[2025-09-05 18:36:08.048554900 UTC] Sensor compression jitter (MAD): 0.017ms
+[2025-09-05 18:36:08.048562500 UTC] Sensor antenna jitter (MAD): 0.159ms
+[2025-09-05 18:36:10.548807300 UTC] Sensor thermal jitter (MAD): 0.418ms
+[2025-09-05 18:36:13.048926400 UTC] Sensor health jitter (MAD): 0.307ms
+[2025-09-05 18:36:18.048433600 UTC] FAULT INJECTION: injecting faulty_sensor
+[2025-09-05 18:36:18.048941100 UTC] Sensor compression jitter (MAD): 0.386ms
+[2025-09-05 18:36:18.048961900 UTC] Sensor thermal jitter (MAD): 0.158ms
+[2025-09-05 18:36:25.548735900 UTC] Sensor thermal jitter (MAD): 0.228ms
+[2025-09-05 18:36:25.548735200 UTC] Sensor health jitter (MAD): 0.194ms
+[2025-09-05 18:36:28.048682200 UTC] Sensor compression jitter (MAD): 0.260ms
+[2025-09-05 18:36:28.048682900 UTC] Sensor antenna jitter (MAD): 0.119ms
+[2025-09-05 18:36:33.049023400 UTC] Sensor thermal jitter (MAD): 0.289ms
+[2025-09-05 18:36:38.048702200 UTC] Sensor compression jitter (MAD): 0.020ms
+[2025-09-05 18:36:38.048702200 UTC] Sensor health jitter (MAD): 0.030ms
+[2025-09-05 18:36:40.549027900 UTC] Sensor thermal jitter (MAD): 0.001ms
+[2025-09-05 18:36:48.048948100 UTC] Sensor antenna jitter (MAD): 0.266ms
+[2025-09-05 18:36:48.049022800 UTC] Sensor compression jitter (MAD): 0.318ms
+[2025-09-05 18:36:48.048950500 UTC] Sensor thermal jitter (MAD): 0.074ms
+[2025-09-05 18:36:48.048942400 UTC] FAULT INJECTION: injecting faulty_sensor
+[2025-09-05 18:36:48.048944900 UTC] FAULT INJECTION: injecting late_fault_sensor (simulated delay)
+[2025-09-05 18:36:50.548772300 UTC] Sensor health jitter (MAD): 0.072ms
+[2025-09-05 18:36:55.548880700 UTC] Sensor thermal jitter (MAD): 0.082ms
+[2025-09-05 18:36:58.048658500 UTC] Sensor compression jitter (MAD): 0.362ms
+[2025-09-05 18:37:03.048579700 UTC] Sensor health jitter (MAD): 0.196ms
+[2025-09-05 18:37:03.049073400 UTC] Sensor thermal jitter (MAD): 0.207ms
+[2025-09-05 18:37:08.048755500 UTC] Sensor compression jitter (MAD): 0.098ms
+[2025-09-05 18:37:08.048755500 UTC] Sensor antenna jitter (MAD): 0.193ms
+[2025-09-05 18:37:10.548748200 UTC] Sensor thermal jitter (MAD): 0.324ms
+[2025-09-05 18:37:15.549037900 UTC] Sensor health jitter (MAD): 0.462ms
+[2025-09-05 18:37:18.048892200 UTC] Sensor compression jitter (MAD): 0.136ms
+[2025-09-05 18:37:18.048902200 UTC] Sensor thermal jitter (MAD): 0.150ms
+[2025-09-05 18:37:18.049411300 UTC] FAULT INJECTION: injecting faulty_sensor
+[2025-09-05 18:37:25.548976200 UTC] Sensor thermal jitter (MAD): 0.073ms
+[2025-09-05 18:37:28.048470500 UTC] Sensor antenna jitter (MAD): 0.288ms
+[2025-09-05 18:37:28.049217600 UTC] Sensor compression jitter (MAD): 0.328ms
+[2025-09-05 18:37:28.049215100 UTC] Sensor health jitter (MAD): 0.176ms
+[2025-09-05 18:37:33.048837900 UTC] Sensor thermal jitter (MAD): 0.133ms
+[2025-09-05 18:37:38.049011300 UTC] Sensor compression jitter (MAD): 0.212ms
+[2025-09-05 18:37:40.548728800 UTC] Sensor health jitter (MAD): 0.486ms
+[2025-09-05 18:37:40.548753900 UTC] Sensor thermal jitter (MAD): 0.085ms
+[2025-09-05 18:37:48.048516500 UTC] Sensor antenna jitter (MAD): 0.046ms
+[2025-09-05 18:37:48.049010700 UTC] Sensor compression jitter (MAD): 0.004ms
+[2025-09-05 18:37:48.049012500 UTC] Sensor thermal jitter (MAD): 0.259ms
+[2025-09-05 18:37:48.049542500 UTC] FAULT INJECTION: injecting late_fault_sensor (simulated delay)
+[2025-09-05 18:37:48.050094100 UTC] FAULT INJECTION: injecting faulty_sensor
+[2025-09-05 18:37:53.048880 UTC] Sensor health jitter (MAD): 0.149ms
+[2025-09-05 18:37:55.549081200 UTC] Sensor thermal jitter (MAD): 0.063ms
+[2025-09-05 18:37:58.048570200 UTC] Sensor compression jitter (MAD): 0.440ms
+[2025-09-05 18:38:03.048658300 UTC] Sensor thermal jitter (MAD): 0.426ms
+[2025-09-05 18:38:05.548691600 UTC] Sensor health jitter (MAD): 0.184ms
+[2025-09-05 18:38:08.048835100 UTC] Sensor compression jitter (MAD): 0.259ms
+[2025-09-05 18:38:08.048835100 UTC] Sensor antenna jitter (MAD): 0.317ms
+[2025-09-05 18:38:10.548865300 UTC] Sensor thermal jitter (MAD): 0.205ms
+[2025-09-05 18:38:18.048845200 UTC] Sensor thermal jitter (MAD): 0.017ms
+[2025-09-05 18:38:18.048858 UTC] Sensor compression jitter (MAD): 0.029ms
+[2025-09-05 18:38:18.048856500 UTC] Sensor health jitter (MAD): 0.164ms
+[2025-09-05 18:38:18.050830500 UTC] FAULT INJECTION: injecting faulty_sensor
+[2025-09-05 18:38:25.548647400 UTC] Sensor thermal jitter (MAD): 0.192ms
+[2025-09-05 18:38:28.048596 UTC] Sensor compression jitter (MAD): 0.262ms
+[2025-09-05 18:38:28.048596200 UTC] Sensor antenna jitter (MAD): 0.233ms
+[2025-09-05 18:38:30.548920 UTC] Sensor health jitter (MAD): 0.064ms
+[2025-09-05 18:38:33.049076 UTC] Sensor thermal jitter (MAD): 0.429ms
+[2025-09-05 18:38:38.048615300 UTC] Sensor compression jitter (MAD): 0.020ms
+[2025-09-05 18:38:40.548984600 UTC] Sensor thermal jitter (MAD): 0.100ms
+[2025-09-05 18:38:43.048781600 UTC] Sensor health jitter (MAD): 0.140ms
+[2025-09-05 18:38:48.048755100 UTC] Sensor compression jitter (MAD): 0.138ms
+[2025-09-05 18:38:48.048755600 UTC] Sensor antenna jitter (MAD): 0.157ms
+[2025-09-05 18:38:48.048757 UTC] Sensor thermal jitter (MAD): 0.220ms
+[2025-09-05 18:38:48.050268200 UTC] FAULT INJECTION: injecting late_fault_sensor (simulated delay)
+[2025-09-05 18:38:48.051266700 UTC] FAULT INJECTION: injecting faulty_sensor
+[2025-09-05 18:39:08.049382500 UTC] SIMULATION COMPLETE.

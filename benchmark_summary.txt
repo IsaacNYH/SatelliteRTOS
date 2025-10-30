@@ -1,0 +1,23 @@
+[2025-09-05 19:56:35.819504600 UTC] Benchmark Summary:
+start_delay_DataCompression: {"mean": 40.81731238832646, "max": 55.36, "std_dev": 0.44952785985323057, "min": 40.264}
+start_delay_HealthMonitoring: {"mean": 35.8310476575121, "std_dev": 0.34069643372079206, "min": 35.283, "max": 42.011}
+fault_recovery_time: {"max": 101.2624, "min": 0.1381, "mean": 33.744233333333334, "std_dev": 50.11656057622071}
+jitter_health: {"min": 0.03, "max": 12500.0, "std_dev": 3227.4357204057287, "mean": 833.5155333333333}
+drift_AntennaAlignment: {"mean": 8.781396777777763, "min": 0.0, "std_dev": 13.262457329421878, "max": 39.575}
+completion_deadline_DataCompression: {"max": 58.152, "mean": 50.474898451459175, "min": 50.087, "std_dev": 0.27721127120038347}
+completion_deadline_HealthMonitoring: {"std_dev": 0.25208932416052715, "mean": 50.515325393621225, "min": 50.072, "max": 56.672}
+sensor_latencies: {"mean": 4.07930641025641, "std_dev": 19.423422518095308, "min": 0.0458, "max": 101.2624}
+drift_HealthMonitoring: {"max": 42.011, "min": 0.0, "mean": 7.931845890981818, "std_dev": 14.374028580072832}
+jitter_antenna: {"mean": 2000.1777999999995, "max": 20000.0, "min": 0.046, "std_dev": 6324.492848317788}
+jitter_compression: {"std_dev": 2294.113613705743, "min": 0.004, "max": 10000.0, "mean": 526.4963684210528}
+completion_deadline_AntennaAlignment: {"max": 58.748, "min": 50.12, "std_dev": 0.27885215484349546, "mean": 50.51248205128202}
+drift_ThermalControl: {"max": 15.922, "std_dev": 3.638693399996429, "mean": 2.652109356770633, "min": 0.0}
+start_delay_AntennaAlignment: {"max": 39.575, "mean": 30.81984658119663, "std_dev": 0.36614795842297215, "min": 30.321}
+drift_DataCompression: {"mean": 8.173141171563088, "max": 55.36, "min": 0.0, "std_dev": 16.33045066700926}
+start_delay_ThermalControl: {"mean": 11.895707006369424, "min": 10.002, "std_dev": 1.4354420960052727, "max": 15.922}
+cpu_active: {"min": 24.97, "mean": 33.86647727272728, "std_dev": 6.1707446255509755, "max": 63.38}
+jitter_thermal: {"min": 0.001, "mean": 300.19168, "std_dev": 1499.960072481062, "max": 7500.0}
+cpu_idle: {"min": 36.62, "max": 75.03, "std_dev": 6.170744625550975, "mean": 66.13352272727273}
+Average CPU: Active=33.87%, Idle=66.13%
+Preemptions per task: {"ThermalControl": 35474}
+Rejected commands: []

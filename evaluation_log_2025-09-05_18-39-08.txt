@@ -1,0 +1,12 @@
+[2025-09-05 18:39:08.895240900 UTC] Post-Run Evaluation Log
+drift_DataCompression: mean=8.173, std_dev=16.330, min=0.000, max=55.360
+drift_HealthMonitoring: mean=7.932, std_dev=14.374, min=0.000, max=42.011
+jitter_thermal: mean=300.192, std_dev=1499.960, min=0.001, max=7500.000
+jitter_antenna: mean=2000.178, std_dev=6324.493, min=0.046, max=20000.000
+drift_AntennaAlignment: mean=8.781, std_dev=13.262, min=0.000, max=39.575
+fault_recovery_time: mean=33.744, std_dev=50.117, min=0.138, max=101.262
+jitter_compression: mean=526.496, std_dev=2294.114, min=0.004, max=10000.000
+cpu_utilization: mean=33.866, std_dev=6.171, min=24.970, max=63.380
+drift_ThermalControl: mean=2.652, std_dev=3.639, min=0.000, max=15.922
+jitter_health: mean=833.516, std_dev=3227.436, min=0.030, max=12500.000
+Average CPU: Active=33.87%, Idle=66.13%
