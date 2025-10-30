@@ -5,11 +5,17 @@ This project simulates a real-time satellite onboard computer system built in Ru
 
 Key Features:
 Concurrent sensor simulation with priority-based task generation.
+
 Bounded buffer for inter-thread communication using crossbeam_channel.
+
 Real-time scheduler with jitter and drift measurement.
+
 CPU usage tracking via sysinfo.
+
 Optional RabbitMQ integration for distributed message passing.
+
 Fault injection to test recovery and resilience.
+
 Benchmarking support with criterion or bmabenchmark.
 
 
